@@ -57,7 +57,7 @@
 </template>
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Api',
   data() {
     return {
       msg: 'Welcome to API'
